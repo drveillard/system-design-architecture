@@ -3,14 +3,10 @@ A collection of awesome software, libraries and frameworks, design and architect
 
 ## Table of Contents
 
-[Articles](#articles)
-
-[Books](#books)
-
-[Videos](#videos)
-
-[Tools](#tools)
-
+- [Articles](#articles)
+- [Books](#books)
+- [Videos](#videos)
+- [Tools](#tools)
 * [Relational Database](#Relational-Database-Management-System)
 * [NoSQL](#NoSQL)
 * [Distributed File Systems](#Distributed-File-Systems)
